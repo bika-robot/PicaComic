@@ -82,10 +82,10 @@ class JmNetwork {
   static JmNetwork? cache;
 
   static const urls = <String>[
-    "https://www.jmeadpoolcdn.one",
-    "https://www.jmeadpoolcdn.life",
-    "https://www.jmapiproxyxxx.one",
-    "https://www.jmfreedomproxy.xyz"
+    "https://www.cdnxxx-proxy.xyz",
+    "https://www.cdnxxx-proxy.co",
+    "https://www.cdnxxx-proxy.vip",
+    "https://www.cdnxxx-proxy.org"
   ];
 
   String get baseUrl => urls[int.parse(appdata.settings[17])];
